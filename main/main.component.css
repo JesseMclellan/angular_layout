@@ -1,0 +1,17 @@
+.wrapper{
+    height: 460px;
+    width: 710px;
+    background-color: #9FC5F8;
+    border: 3px solid black;
+    display: inline-block;
+    vertical-align: top;
+    margin-left: 40px;
+}
+
+h4{
+    margin: 3px 0px 20px 3px;
+}
+
+p{
+    margin: 20px;
+}

@@ -1,0 +1,16 @@
+.wrapper{
+    height: 130px;
+    width: 960px;
+    background-color: #9FC5F8;
+    border: 3px solid black;
+    margin-bottom: 20px;
+}
+
+h4{
+    margin: 3px;
+}
+
+h1{
+    font-size: 40pt;
+    margin: 15px 0px 0px 20px;
+}
